@@ -1,0 +1,15 @@
+AI USE DISCLOSURE
+
+Name: Gladys Jane Q. Red
+Course: CHEM 13
+Activity: Asynchronous Activity No. 1 - GitHub Portfolio and Organic Compound Infographics (Acetic Acid, Acetone, Aspirin)
+Date: September 8, 2026
+
+AI Tools Used: Claude (Anthropic), ChatGPT (OpenAI), Perplexity AI
+
+Purpose of Use:
+- Claude was used to learn how to access and use GitHub, and to get suggestions and ideas on how to plan and design the infographics.
+- ChatGPT was used to get additional information and explanations about each compound (Acetic Acid, Acetone, Aspirin), including their properties, uses, and chemical engineering connections.
+- Perplexity AI was used to gather additional reference information and verify facts about each compound.
+
+The infographics were created independently using Canva.
